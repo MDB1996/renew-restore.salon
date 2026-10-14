@@ -1,0 +1,6 @@
+{
+  "name": "Solène Studio — Hair & Scalp Sanctuary",
+  "description": "A sunlit modern salon space centered on natural renewal, quiet restoration, and personal confidence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
